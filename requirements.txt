@@ -1,2 +1,4 @@
 mlxtend>=0.22.0
 pandas>=1.3.0
+unicorn>=0.5.1
+Flask>=2.0.0
